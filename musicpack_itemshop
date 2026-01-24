@@ -1,5 +1,5 @@
 {
-    "//": "BR Item Shop Config",
+    "//": "BR Item Shop Config Musicpack",
 
   "featured1":  { "itemGrants": ["AthenaMusicPack:MusicPack_001"], "price": 0 },
   "featured2":  { "itemGrants": ["AthenaMusicPack:MusicPack_002"], "price": 0 },
