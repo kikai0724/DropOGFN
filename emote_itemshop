@@ -1,5 +1,5 @@
 {
-  "//": "BR Item Shop Config - Featured Only / Single Emote (No Bundles)",
+  "//": "BR Item Shop Config Drop Emote",
 
   "featured1":  { "itemGrants": ["AthenaDance:EID_Adapter"], "price": 0 },
   "featured2":  { "itemGrants": ["AthenaDance:EID_ArtGiant"], "price": 0 },
