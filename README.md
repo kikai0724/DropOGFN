@@ -4,6 +4,11 @@ OGFortnite Project.
 Sorry. I added emote but i don't make config.
 use FModel.
 
+## Features
+- **Original SERIES**
+- **Make emote**
+- **Make MusicPack**
+  
 ## To-do
 - **Add Arena point**
 - **Make skin**
@@ -19,9 +24,6 @@ use FModel.
 - **Add weapones**
 - **Auto Large Pak Patch**
 - **Make any Gamemodes**
-- **Original SERIES**
-- **Make emote**
-- **Make MusicPack**
 
 
 **Note**: Discord ID : kikai_.
