@@ -1,5 +1,5 @@
 {
-  "//": "BR Item Shop Config - All Emotes Featured (Reload Backend)",
+  "//": "BR Item Shop Config - Drop emote",
 
   "featured1":  { "itemGrants": ["AthenaDance:EID_AccentWall"], "price": 0 },
   "featured2":  { "itemGrants": ["AthenaDance:EID_Adapter"], "price": 0 },
