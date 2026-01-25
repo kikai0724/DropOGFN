@@ -16,7 +16,7 @@ This project is ASIA server
 - **60fps emote skelton**
 - **emote face**
 - **use custom material in 12.41**
-- **Good bot**
+- **Good Playerbot**
 - **Make custom map**
 - **Make custom Pickaxe**
 - **Make custom Event**
