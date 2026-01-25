@@ -1,8 +1,7 @@
 # DropOGFN
 OGFortnite Project.
 
-Sorry. I added emote but i don't make config.
-use FModel.
+This project is ASIA server
 
 ## Features
 - **Original SERIES**
