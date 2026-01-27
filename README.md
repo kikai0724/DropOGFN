@@ -23,6 +23,7 @@ This project is ASIA server
 - **Add weapones**
 - **Auto Large Pak Patch**
 - **Make any Gamemodes**
+- **Better Fortnite Launcher**
 
 
 **Note**: Discord ID : kikai_.
