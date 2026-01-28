@@ -1,5 +1,6 @@
 # DropOGFN
 OGFortnite Project.
+Discordserver: https://dsc.gg/dropfn
 
 This project is ASIA server
 
