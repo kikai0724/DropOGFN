@@ -1,14 +1,51 @@
 {
   "//": "BR Item Shop Config",
-  "daily1": {"itemGrants": ["CID_259_Athena_Commando_M_StreetOps"], "price": 1200},
-  "daily2": {"itemGrants": ["CID_260_Athena_Commando_F_StreetOps"], "price": 1200},
-  "daily3": {"itemGrants": ["Pickaxe_ID_190_GolfClub"], "price": 500},
-  "daily4": {"itemGrants": ["EID_DustDevil"], "price": 500},
-  "daily5": {"itemGrants": ["EID_JadeTowel_Gloss"], "price": 500},
-  "daily6": {"itemGrants": ["EID_Deceiver"], "price": 500},
-
-  "featured1": {"itemGrants": ["EID_Kelplinen"], "price": 500},
-  "featured2": {"itemGrants": ["CID_650_Athena_Commando_F_HolidayPJ_B"], "price": 800},
-  "featured3": {"itemGrants": ["CID_048_Athena_Commando_F_HolidayGingerbread"], "price": 1500},
-  "featured4": {"itemGrants": ["EID_YouthFlume"], "price": 500}
+  "daily1": {
+    "itemGrants": [
+      "CID_576_Athena_Commando_M_CODSquadPlaid"
+    ],
+    "price": 1200
+  },
+  "daily2": {
+    "itemGrants": [
+      "CID_186_Athena_Commando_M_Exercise"
+    ],
+    "price": 1500
+  },
+  "featured1": {
+    "itemGrants": [
+      "CID_453_Athena_Commando_F_GlowBro"
+    ],
+    "price": 1500
+  },
+  "featured2": {
+    "itemGrants": [
+      "CID_223_Athena_Commando_M_Dieselpunk"
+    ],
+    "price": 1200
+  },
+  "featured3": {
+    "itemGrants": [
+      "EID_Wave"
+    ],
+    "price": 200
+  },
+  "featured4": {
+    "itemGrants": [
+      "BID_259_Ashton_SaltLake"
+    ],
+    "price": 1200
+  },
+  "featured5": {
+    "itemGrants": [
+      "Glider_ID_191_PineTree"
+    ],
+    "price": 800
+  },
+  "featured6": {
+    "itemGrants": [
+      "Pickaxe_ID_277_BlackMondayMale_5TLSD"
+    ],
+    "price": 1200
+  }
 }
