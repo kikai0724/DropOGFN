@@ -1,14 +1,14 @@
 {
   "//": "BR Item Shop Config",
-  "daily1": {"itemGrants": ["AthenaDance:EID_Psychic_7SO2Z"], "price": 500},
-  "daily2": {"itemGrants": ["AthenaDance:EID_Griddles"], "price": 500},
-  "daily3": {"itemGrants": ["AthenaDance:EID_CycloneHeadBang"], "price": 500},
-  "daily4": {"itemGrants": ["AthenaDance:EID_JulyBooks"], "price": 500},
-  "daily5": {"itemGrants": ["AthenaDance:EID_Downward_8GZUA"], "price": 500},
-  "daily6": {"itemGrants": ["AthenaDance:EID_GasStation_104FQ"], "price": 500},
+  "daily1": {"itemGrants": ["EID_Psychic_7SO2Z"], "price": 500},
+  "daily2": {"itemGrants": ["EID_Griddles"], "price": 500},
+  "daily3": {"itemGrants": ["EID_CycloneHeadBang"], "price": 500},
+  "daily4": {"itemGrants": ["EID_JulyBooks"], "price": 500},
+  "daily5": {"itemGrants": ["EID_Downward_8GZUA"], "price": 500},
+  "daily6": {"itemGrants": ["EID_GasStation_104FQ"], "price": 500},
 
-  "featured1": {"itemGrants": ["AthenaCharacter:CID_A_158_Athena_Commando_F_Buffet_YC20H"], "price": 2000},
-  "featured2": {"itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"], "price": 1500},
-  "featured3": {"itemGrants": ["AthenaLoadingScreen:LSID_117_Squishy"], "price": 300},
-  "featured4": {"itemGrants": ["AthenaLoadingScreen:LSID_231_CycloneBraid"], "price": 300}
+  "featured1": {"itemGrants": ["CID_A_158_Athena_Commando_F_Buffet_YC20H"], "price": 2000},
+  "featured2": {"itemGrants": ["CID_703_Athena_Commando_M_Cyclone"], "price": 1500},
+  "featured3": {"itemGrants": ["LSID_117_Squishy"], "price": 300},
+  "featured4": {"itemGrants": [LSID_231_CycloneBraid"], "price": 300}
 }
