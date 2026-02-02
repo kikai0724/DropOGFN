@@ -1,51 +1,14 @@
 {
   "//": "BR Item Shop Config",
-  "daily1": {
-    "itemGrants": [
-      "CID_576_Athena_Commando_M_CODSquadPlaid"
-    ],
-    "price": 1200
-  },
-  "daily2": {
-    "itemGrants": [
-      "CID_186_Athena_Commando_M_Exercise"
-    ],
-    "price": 1500
-  },
-  "featured1": {
-    "itemGrants": [
-      "CID_453_Athena_Commando_F_GlowBro"
-    ],
-    "price": 1500
-  },
-  "featured2": {
-    "itemGrants": [
-      "CID_223_Athena_Commando_M_Dieselpunk"
-    ],
-    "price": 1200
-  },
-  "featured3": {
-    "itemGrants": [
-      "EID_Wave"
-    ],
-    "price": 200
-  },
-  "featured4": {
-    "itemGrants": [
-      "BID_259_Ashton_SaltLake"
-    ],
-    "price": 1200
-  },
-  "featured5": {
-    "itemGrants": [
-      "Glider_ID_191_PineTree"
-    ],
-    "price": 800
-  },
-  "featured6": {
-    "itemGrants": [
-      "Pickaxe_ID_277_BlackMondayMale_5TLSD"
-    ],
-    "price": 1200
-  }
+  "daily1": {"itemGrants": ["AthenaDance:EID_Psychic_7SO2Z"], "price": 500},
+  "daily2": {"itemGrants": ["AthenaDance:EID_Griddles"], "price": 500},
+  "daily3": {"itemGrants": ["AthenaDance:EID_CycloneHeadBang"], "price": 500},
+  "daily4": {"itemGrants": ["AthenaDance:EID_JulyBooks"], "price": 500},
+  "daily5": {"itemGrants": ["AthenaDance:EID_Downward_8GZUA"], "price": 500},
+  "daily6": {"itemGrants": ["AthenaDance:EID_GasStation_104FQ"], "price": 500},
+
+  "featured1": {"itemGrants": ["AthenaCharacter:CID_A_158_Athena_Commando_F_Buffet_YC20H"], "price": 2000},
+  "featured2": {"itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"], "price": 1500},
+  "featured3": {"itemGrants": ["AthenaLoadingScreen:LSID_117_Squishy"], "price": 300},
+  "featured4": {"itemGrants": ["AthenaLoadingScreen:LSID_231_CycloneBraid"], "price": 300}
 }
