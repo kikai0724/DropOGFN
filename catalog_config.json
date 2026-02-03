@@ -10,5 +10,5 @@
   "featured1": {"itemGrants": ["CID_A_158_Athena_Commando_F_Buffet_YC20H"], "price": 2000},
   "featured2": {"itemGrants": ["CID_703_Athena_Commando_M_Cyclone"], "price": 1500},
   "featured3": {"itemGrants": ["LSID_117_Squishy"], "price": 300},
-  "featured4": {"itemGrants": [LSID_231_CycloneBraid"], "price": 300}
+  "featured4": {"itemGrants": ["LSID_231_CycloneBraid"], "price": 300}
 }
