@@ -1,0 +1,19 @@
+{
+  "//": "BR Item Shop Config - Drop skin",
+
+  "featured1":  { "itemGrants": ["AthenaCharacter:Character_BisonDrain"], "price": 0 },
+  "featured2":  { "itemGrants": ["AthenaCharacter:Character_ChimeCurlCorn"], "price": 0 },
+  "featured3":  { "itemGrants": ["AthenaCharacter:Character_FlossYawn"], "price": 0 },
+  "featured4":  { "itemGrants": ["AthenaCharacter:Character_FrigidPoppet"], "price": 0 },
+  "featured5":  { "itemGrants": ["AthenaCharacter:Character_HonorBraceJoust"], "price": 0 },
+  "featured6":  { "itemGrants": ["AthenaCharacter:Character_JadeTowelGloss"], "price": 0 },
+  "featured7":  { "itemGrants": ["AthenaCharacter:Character_KelpLinenCalcium"], "price": 0 },
+  "featured8":  { "itemGrants": ["AthenaCharacter:Character_MarchTreatCup"], "price": 0 },
+  "featured9":  { "itemGrants": ["AthenaCharacter:Character_PhoneCharger"], "price": 0 },
+  "featured10": { "itemGrants": ["AthenaCharacter:Character_QuicheLorraineLime"], "price": 0 },
+  "featured11": { "itemGrants": ["AthenaCharacter:Character_ShyTurkey"], "price": 0 },
+  "featured12": { "itemGrants": ["AthenaCharacter:Character_SlugRipple"], "price": 0 },
+  "featured13": { "itemGrants": ["AthenaCharacter:Character_StallionAviator"], "price": 0 },
+  "featured14": { "itemGrants": ["AthenaCharacter:Character_SummitReedGrit"], "price": 0 },
+  "featured15": { "itemGrants": ["AthenaCharacter:CID_028_Athena_Commando_Gold"], "price": 0 }
+}
