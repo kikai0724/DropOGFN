@@ -103,5 +103,6 @@
   "featured100":{ "itemGrants": ["AthenaDance:EID_TwistWasp_T2I4J"], "price": 0 },
   "featured101":{ "itemGrants": ["AthenaDance:EID_WantMe"], "price": 0 },
   "featured102":{ "itemGrants": ["AthenaDance:EID_WXY"], "price": 0 },
-  "featured103":{ "itemGrants": ["AthenaDance:EID_YouthFlume"], "price": 0 }
+  "featured103":{ "itemGrants": ["AthenaDance:EID_YouthFlume"], "price": 0 },
+  "featured104":{ "itemGrants": ["AthenaDance:EID_TangyRadishFlame"], "price": 0 }
 }
